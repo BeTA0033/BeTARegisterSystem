@@ -7,7 +7,7 @@ Proje Laravel Framework üzerinde çalışmaktadır.
 -----------
 Proje indirilecekse
 
-indirildiğinde "idia" klasörü ".idea" olarak, "v2" klasörü "vendor" olarak kaydedilmelidir.
+indirildiğinde "idia" klasörü ".idea" olarak, "v2" klasörü "vendor" olarak isimleri değiştirilmelidir.
 
 
 
